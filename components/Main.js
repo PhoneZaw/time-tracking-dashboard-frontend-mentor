@@ -2,9 +2,8 @@ import { useEffect } from "react";
 import Image from "next/image";
 
 const main = ({ time, handler }) => {
-  console.log(time);
   return (
-    <div className="lg:w-64 h-full bg-secondary-300 rounded-2xl mb-6 lg:mb-0">
+    <div className="lg:w-64 h-full bg-secondary-300 rounded-2xl flex flex-col">
       <div className="flex flex-wrap gap-6 items-center lg:block w-full bg-primary-blue p-8 sm:space-y-10 rounded-2xl">
         <div className="w-20 h-20 rounded-full border-4 border-white">
           <Image src="/image-jeremy.png" alt="Profile" height={80} width={80} />
