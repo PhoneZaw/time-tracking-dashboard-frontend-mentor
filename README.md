@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/boss-is-me/time-tracking-dashboard-frontend-mentor)
-- Live Site URL: [Add live site URL here](https://time-tracking-dashboard.vercel.app)
+- Solution URL: [Solution URL here](https://github.com/boss-is-me/time-tracking-dashboard-frontend-mentor)
+- Live Site URL: [Live site URL here](https://time-tracking-dashboard.vercel.app)
 
 ## My process
 
